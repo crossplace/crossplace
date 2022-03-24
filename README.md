@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img src="https://github.com/crossplace/crossplace/blob/master/assets/icon.png" />
+  <img src="https://github.com/crossplace/crossplace/blob/f9c240105d8901404ef56a9a147e311e9d899435/assets/1.png" />
 
 </p>
 
