@@ -22,14 +22,6 @@ To use crossplace, visit the website [here!](https://cross.place/)
 
 <br>
 
-<br>
-
-## :clap:  Supporters
-
-![](https://reporoster.com/stars/crossplace/crossplace)
-
-<br>
-
 ## Authors
 
 [monitrr](https://www.github.com/monitrr) 
